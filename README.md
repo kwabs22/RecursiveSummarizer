@@ -1,4 +1,8 @@
 # Recursive Summarizer
+The main issue is that context windows mean chunks --> This leads to the idea of mini summaries which brings the idea of an alternative way to study --> Read a summary then read the summaries used to make that summary then read the summaries ... --> Recursive reading in the opposite direction
+
+This repository + https://openai.com/blog/summarizing-books/ shows the idea of how to summarise recursively but how would recursive reading look like? 
+
 
 ## DISCLAIMER: INFORMATIONAL AND EXPERIMENTATION PURPOSES ONLY
 
